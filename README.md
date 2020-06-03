@@ -2,15 +2,12 @@
 This repository contains projects and practice set for Udacity Programming For Data Science Using Python Nanodegree.
 Date 3rd June 2020
 
-### Project Title
-Replace the Project Title
-
 ### Description
 This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2.
 
 
 Python Learning In The Course
-Check the link for my learning material. Check this out
+
 
 Files Used
 The required files for running this program are:
